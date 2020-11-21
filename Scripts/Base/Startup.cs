@@ -18,7 +18,7 @@ namespace Assets.Scripts.Base
                 Debug.Log("游戏无网络，请检查连接或退出");
             }
             Debug.Log("Up and running");
-            DownloadManager manager = new DownloadManager();
+            
         }
 
     }
